@@ -36,13 +36,13 @@ export const PROJECTS: Project[] = [
     title: 'Kaggle competition 1',
     date: 'Jan 2026',
     subtext: 'Compétition Kaggle sur la prédiction des scores étudiants : feature engineering,réduction de dimension,analyse avancée des données et corrélations, modélisation multi-algorithmes avec validation croisée.',
-    url: 'https://github.com/derickill/Kaggle-competition-1',
+    url: 'https://github.com/derickill/Competion-kaggle-1',
   },
   {
     title: 'Kaggle competition 2',
     date: 'Feb 2026',
     subtext: 'Compétition Kaggle pour prédire la durée d’écoute d’un podcast : feature engineering, exploration et analyse des données, encodages avancés, modélisation multi-algorithmes avec validation croisée et métriques multiples',
-    url: 'https://www.youtube.com/watch?v=oauQSEySkoQ',
+    url: 'https://github.com/derickill/Competition-Kaggle-2',
   },
   // {
   //   title: 'Portfolio',
