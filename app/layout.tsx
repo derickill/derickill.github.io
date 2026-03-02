@@ -14,7 +14,7 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
+  title: "DERICK ATTOUBOU",
   description: "A frontend developer by profession, a creative at heart.",
   keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
   authors: [{ name: "Mohit Virli" }],
