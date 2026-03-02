@@ -1,13 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  // skip strict mode
   reactStrictMode: false,
   output: 'export',
-  env: {
-    googleAnalyticsId: process.env.NODE_ENV === "production" ? process.env.GA_MEASUREMENT_ID : "",
-  }
+  images: {
+    unoptimized: true, 
+  },
+  // On ne met RIEN dans basePath car ton dépôt est derickill.github.io
 };
 
 export default nextConfig;
